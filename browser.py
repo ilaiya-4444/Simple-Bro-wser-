@@ -15,6 +15,6 @@ class WebBrowser(QMainWindow):
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    QCoreApplication.setApplicationName("SimpleWebBrowser")
+    QCoreApplication.setApplicationName("Simple Bro..wser")
     window = WebBrowser()
     app.exec_()
